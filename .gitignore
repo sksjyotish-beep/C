@@ -1,0 +1,26 @@
+# Compiled executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.idb
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build folders
+build/
+cmake-build-*/
+
+# System files
+Thumbs.db
+.DS_Store
